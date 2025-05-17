@@ -1,4 +1,4 @@
-<h1 align="center">𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧-𝗠𝗗<br></h1>
+<h1 align="center">X HANI MD <br></h1>
 <p align="center">
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥+𝗠𝗗+𝘽𝙊𝙏+𝙍𝙀𝗣𝗢𝗣𝗘𝗗.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝗦𝗣𝗔𝗖𝗜𝗟𝗜𝗖𝗘𝗗+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-PRINCE MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/PRINCE-SER" target="_blank">PRINCE</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+X HANI MD  Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/PRINCE-SER" target="_blank">PRINCE</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
